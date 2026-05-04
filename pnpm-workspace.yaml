@@ -1,6 +1,2 @@
 packages:
   - 'packages/*'
-  - 'apps/*'
-
-catalog:
-  effect: "3.22.0"
